@@ -108,7 +108,7 @@ Aqui está uma tabela dos itens aceitos.
 
 ## Exemplos
 Alguns exemplos de formatação de data:
-* ```?d F Y``` - Anachronian 2017
+* ```?d? F Y``` - Anachronian 2017
 * ```j F Y``` - 2 Sinchronian 2016
 * ```d\m\Y``` - 02\00\2016
 * ```d\m\Y (G)``` - 18\11\2017 (26/10/2017)
