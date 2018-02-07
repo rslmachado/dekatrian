@@ -17,8 +17,7 @@ Ouça também o [Scicast #106: Tempo](http://www.deviante.com.br/podcasts/scicas
 >**Não meçam o tempo com uma regua torta.** --_PENA, Roberto. Scicast #106: Tempo (65 min.)_
 
 ## Sobre a biblioteca
-A proposta é juntar codigos em diversas linguagens para a utilização do calendário.  
-Todas oferecem as seguintes possibilidades de formatação.
+A proposta é juntar codigos em diversas linguagens para a utilização do calendário.
 
 ### Formatando Data
 O formato da data permite determinar como a data será exibida. A seqüência de formato é um modelo em que várias partes da data são combinadas (usando os "caracteres de formato") para gerar uma data no formato especificado.
